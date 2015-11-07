@@ -7,3 +7,4 @@ A collection of links I don't want to forget about
 * [A discussion of nginx configuration files for node](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
 * [Building a search engine with microservices](http://blog.skillsmatter.com/2014/09/10/build-a-search-engine-for-node-js-modules-using-microservices-part-1/)
 * [A pdf of AWS architecture](http://media.amazonwebservices.com/architecturecenter/AWS_ac_ra_web_01.pdf)
+* [Why web perf matters](http://www.mcrinc.com/Documents/Newsletters/201110_why_web_performance_matters.pdf)
