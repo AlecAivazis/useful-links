@@ -10,3 +10,4 @@ A collection of links I don't want to forget about
 * [Why web perf matters](http://www.mcrinc.com/Documents/Newsletters/201110_why_web_performance_matters.pdf)
 * [Plugins](http://martyalchin.com/2008/jan/10/simple-plugin-framework/)
 * [Gentle introduction of block chains](http://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
+* [Moving git file history](http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/)
