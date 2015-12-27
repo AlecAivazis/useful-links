@@ -15,3 +15,4 @@ A collection of links I don't want to forget about
 * [Computer Out of Dominos](http://thescienceexplorer.com/technology/watch-computer-made-out-dominoes-do-basic-math)
 * [Confusing Neural Nets](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
 * [Neural Net blog with nice diagrams](http://colah.github.io/)
+* [Data Science Delivered](https://github.com/ianozsvald/data_science_delivered)
