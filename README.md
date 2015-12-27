@@ -13,3 +13,5 @@ A collection of links I don't want to forget about
 * [Moving git file history](http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/)
 * [60 fps while scrolling](http://engineering.flipboard.com/2015/02/mobile-web/)
 * [Computer Out of Dominos](http://thescienceexplorer.com/technology/watch-computer-made-out-dominoes-do-basic-math)
+* [Confusing Neural Nets](https://codewords.recurse.com/issues/five/why-do-neural-networks-think-a-panda-is-a-vulture)
+* [Neural Net blog with nice diagrams](http://colah.github.io/)
