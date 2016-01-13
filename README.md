@@ -1,8 +1,14 @@
 # useful-links
 A collection of links I don't want to forget about
 
-# Microservices
+# Web / JavaScript
+* [Async/await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/)
+* [Why web perf matters](http://www.mcrinc.com/Documents/Newsletters/201110_why_web_performance_matters.pdf)
+* [60 fps while scrolling](http://engineering.flipboard.com/2015/02/mobile-web/)
+* [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480#.ecs9whdfv)
+* [Nginx configuration files for node](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
 
+# Microservices
 * [authentication using shared redis sessions](http://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/)
 * [Views in micro-services](http://dejanglozic.com/2014/10/20/micro-services-and-page-composition-problem/)
 * [Building a search engine with microservices](http://blog.skillsmatter.com/2014/09/10/build-a-search-engine-for-node-js-modules-using-microservices-part-1/)
@@ -14,12 +20,8 @@ A collection of links I don't want to forget about
 * [Data Science Delivered](https://github.com/ianozsvald/data_science_delivered)
 
 # misc
-* [Async/await](https://thomashunter.name/blog/the-long-road-to-asyncawait-in-javascript/)
-* [Why web perf matters](http://www.mcrinc.com/Documents/Newsletters/201110_why_web_performance_matters.pdf)
-* [Plugins](http://martyalchin.com/2008/jan/10/simple-plugin-framework/)
+* [A great discussion on plugin systems](http://martyalchin.com/2008/jan/10/simple-plugin-framework/)
 * [Gentle introduction of block chains](http://bitsonblocks.net/2015/09/09/a-gentle-introduction-to-blockchain-technology/)
 * [Moving git file history](http://gbayer.com/development/moving-files-from-one-git-repository-to-another-preserving-history/)
-* [60 fps while scrolling](http://engineering.flipboard.com/2015/02/mobile-web/)
 * [Computer Out of Dominos](http://thescienceexplorer.com/technology/watch-computer-made-out-dominoes-do-basic-math)
 * [General Tip on "Good UI"](https://www.goodui.org/)
-* [Nginx configuration files for node](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
