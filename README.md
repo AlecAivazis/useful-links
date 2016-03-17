@@ -8,6 +8,9 @@ A collection of links I don't want to forget about
 * [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480#.ecs9whdfv)
 * [Nginx configuration files for node](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
 
+# Python
+* [A discussion of multi-process/threading in python] (http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html#what-alternative-approaches-are-available)
+
 # Microservices
 * [authentication using shared redis sessions](http://dejanglozic.com/2014/10/07/sharing-micro-service-authentication-using-nginx-passport-and-redis/)
 * [Views in micro-services](http://dejanglozic.com/2014/10/20/micro-services-and-page-composition-problem/)
