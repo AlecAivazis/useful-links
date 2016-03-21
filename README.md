@@ -29,3 +29,4 @@ A collection of links I don't want to forget about
 * [Computer Out of Dominos](http://thescienceexplorer.com/technology/watch-computer-made-out-dominoes-do-basic-math)
 * [General Tip on "Good UI"](https://www.goodui.org/)
 * [Writing Realtime Chat in Rust](http://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
+* [A New Idiom for Concurrency Based on Applicative Functors](http://community.haskell.org/~simonmar/papers/haxl-icfp14.pdf)
