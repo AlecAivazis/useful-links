@@ -7,6 +7,7 @@ A collection of links I don't want to forget about
 * [60 fps while scrolling](http://engineering.flipboard.com/2015/02/mobile-web/)
 * [Why ContentEditable is Terrible](https://medium.com/medium-eng/why-contenteditable-is-terrible-122d8a40e480#.ecs9whdfv)
 * [Nginx configuration files for node](http://blog.argteam.com/coding/hardening-node-js-for-production-part-2-using-nginx-to-avoid-node-js-load/)
+* [1 million requests a minute in golang](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 
 # Python
 * [A discussion of multi-process/threading in python] (http://python-notes.curiousefficiency.org/en/latest/python3/multicore_python.html#what-alternative-approaches-are-available)
